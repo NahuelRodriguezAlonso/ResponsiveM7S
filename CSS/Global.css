@@ -1,0 +1,10 @@
+/* GLOBAL CSS */
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+@import url('/CSS/Movile.css');
+
+@import url('/CSS/Desktop.css');
+
+body{
+    background-color: black;
+}
